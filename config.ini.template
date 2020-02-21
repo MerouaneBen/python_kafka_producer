@@ -1,0 +1,4 @@
+[Global_Kafka_Config]
+BOOTSTRAP_SERVERS=
+KAFKA_PORTS=
+KAFKA_TOPIC=

@@ -6,3 +6,5 @@
 .idea/python_kafka_producer.iml
 .idea/vagrant.xml
 .idea/vcs.xml
+venv/
+.config.ini
