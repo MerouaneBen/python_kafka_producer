@@ -1,2 +1,2 @@
-# python_kfaka_producer
+# python_kafka_producer
 A basic simple tool to send data to Kafka topic
